@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
     private boolean isScrennLand() {
         // 横屏
         if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_PORTRAIT) {
